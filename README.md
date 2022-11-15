@@ -1,16 +1,19 @@
-### Hi there 👋
+Hi there! 
+I'm Cristopher Quiros 👋
 
-<!--
-**Cristopher-Quiros/Cristopher-Quiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Networking Computing Student at COTAI
 
-Here are some ideas to get you started:
+👾 Actually Learning about FullStack Developer, DevOps & NOC Engineers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Self Motivated and Passionated Student
+
+### I am open to:
+
+- Any collaboration work 🤝
+- Keep Learning and Improving 📖
+
+### I'm actually learning:
+
+- How to deploy apps on K8s/Minikube/Microk8s
+- How to work with Docker & Docker Compose
+- Deploying different apps on Docker & Docker Composer
